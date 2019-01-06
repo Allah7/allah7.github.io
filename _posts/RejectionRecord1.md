@@ -1,4 +1,4 @@
-#May 23, 2015 at 1:11 AM
+# May 23, 2015 at 1:11 AM
 发件人 Apple
 ngRepeat: rejectionReason in message.qcRejectionReasons
 11.7 - Apps that use IAP to purchase items must assign the correct Purchasability type
